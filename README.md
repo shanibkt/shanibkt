@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanib</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="images/cat_using_laptop_with_headset__background_is_na.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibsh&label=Profile%20views&color=0e75b6&style=flat" alt="shanibsh" /> </p>
