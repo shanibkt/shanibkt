@@ -57,7 +57,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanibsh&theme=radical" alt="shanibsh's GitHub Streak" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shanibsh&theme=radical" alt="shanibsh's Contribution Graph" />
+
+
 </p>
 
 ---
