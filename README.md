@@ -5,7 +5,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanibsh&label=Profile%20views&color=0e75b6&style=flat" alt="shanibsh" /> </p>
+
 
 ---
 
@@ -49,15 +49,15 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanibsh&layout=compact&hide=html" alt="shanibsh's Most Used Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanibkt&layout=compact&hide=html" alt="shanibkt's Most Used Languages" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanibsh&show_icons=true&theme=radical" alt="shanibsh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanibkt&show_icons=true&theme=radical" alt="shanibkt's GitHub Stats" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shanibsh&theme=radical" alt="shanibsh's Contribution Graph" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shanibkt&theme=radical" alt="shanibkt's Contribution Graph" />
 
 
 </p>
