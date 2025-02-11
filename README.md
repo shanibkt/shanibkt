@@ -99,7 +99,8 @@
 ---
 
 ### 🌱 Current Focus
-- Learning  Flutter .
+- Flutter .
+- Learning : Machine learning
 - Exploring backend development and APIs.
 - Building personal projects to sharpen skills.
 - Focusing on data structures to enhance problem-solving skills and algorithmic thinking.
